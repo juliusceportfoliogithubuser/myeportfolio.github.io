@@ -1,2 +1,4 @@
-# myeportfolio.github.io
-eportfolio web page
+# E-Portfolio web site
+
+This Github-repository contains my e-portfolio.
+
